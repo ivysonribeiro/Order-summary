@@ -4,12 +4,12 @@ Esta é uma solução para o desafio do cartão de resumo do pedido no Frontend 
 
 ## Índice
 
-- [Visão Geral](#visão-geral) 
+- [Visão Geral](#Visão-geral) 
   - [Captura de tela](#captura-de-tela)
   - [links](#links)
-- [Meu processo](#meu-processo)
+- [Meu processo](#Meu-processo)
   - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
   - [recursos úteis](#recursos-úteis)
- - [Autor](#autor)
+ - [Autor](#Autor)
