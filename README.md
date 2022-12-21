@@ -5,9 +5,9 @@ Esta é uma solução para o desafio do cartão de resumo do pedido no Frontend 
 ## Índice
 
 - [Visão Geral](#visão-geral) 
- - [Captura de tela](#captura-de-tela)
- - [links](#links)
-- [meu processo](#meu-processo)
+  - [Captura de tela](#captura-de-tela)
+  - [links](#links)
+- [Meu processo](#meu-processo)
   - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
