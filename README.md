@@ -13,3 +13,12 @@ Esta é uma solução para o desafio do cartão de resumo do pedido no Frontend 
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
   - [recursos úteis](#recursos-úteis)
  - [Autor](#Autor)
+
+
+## Visão Geral
+
+### Captura de Tela
+
+<p aligne="center">
+<img src="images/order-summary.png" heigt= "70%" width="100%">
+</p>
