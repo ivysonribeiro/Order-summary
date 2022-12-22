@@ -23,6 +23,11 @@ Esta é uma solução para o desafio do cartão de resumo do pedido no Frontend 
 <img src="images/order-summary.png" heigt= "70%" width="100%">
 </p>
 
+## LInks
+
+- Link do repositório: [https://github.com/ivysonribeiro/Order-summary]
+- Link do projeto: [https://ivysonribeiro.github.io/Order-summary/]
+
 ## Meu Processo
 
 ### Construído com
