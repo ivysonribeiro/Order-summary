@@ -5,6 +5,10 @@
     font-family: "Red Hat Display", sans-serif;
 }
 
+html{
+    background-color: hsl(225, 100%, 94%);
+}
+
 body{
     background: url('../images/pattern-background-desktop.svg');
     background-size: contain;
@@ -15,8 +19,7 @@ body{
     align-items: center;
     justify-content: center;
     padding: 1rem;
-    background-color: hsl(225, 100%, 94%);
-   
+      
 }
 
 main{
