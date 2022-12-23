@@ -11,9 +11,7 @@ Esta é uma solução para o desafio do cartão de resumo do pedido no Frontend 
   - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-  - [recursos úteis](#recursos-úteis)
- - [Autor](#Autor)
-
+  
 
 ## Visão Geral
 
